@@ -34,7 +34,6 @@ const arr2 = _.range(0, 100, 1)
 // console.log(solution(6, arr1))
 
 
-// question 1
 
 function solution2(A){
     let count = 0;
